@@ -1,0 +1,8 @@
+flask==3.0.2
+openai>=1.50.0
+chromadb==0.4.24
+PyPDF2==3.0.1
+numpy<2.0.0
+httpx<0.28.0
+posthog==3.5.0
+sentence-transformers==3.0.0

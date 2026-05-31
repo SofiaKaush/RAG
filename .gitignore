@@ -1,0 +1,19 @@
+Python
+
+pycache/
+*.py[cod]
+venv/
+.venv/
+env/
+
+База данных ChromaDB
+
+chroma_advanced_db/
+chroma_ultimate_db/
+chroma_db/
+*.sqlite3
+
+IDE
+
+.vscode/
+.idea/
