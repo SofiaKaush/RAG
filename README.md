@@ -1,4 +1,4 @@
-# 🚀 Ultimate RAG App (Git Edition)
+# Ultimate RAG App (Git Edition)
 
 Автономная система RAG (Retrieval-Augmented Generation) для анализа локальных документов и кодовых баз. Приложение работает полностью локально, обеспечивая максимальную приватность ваших данных.
 
